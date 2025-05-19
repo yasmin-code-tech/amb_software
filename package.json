@@ -1,0 +1,14 @@
+{
+  "name": "amb_software",
+  "version": "1.0.0",
+  "description": "repositorio do git com node ",
+  "main": "src/server.js",
+  "scripts": {
+    "start":"node src/server.js" 
+  },
+  "author": "yasmin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
